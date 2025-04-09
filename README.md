@@ -54,7 +54,7 @@ sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora
 </code></pre>
 🇳🇱 Dutch Version:
 <pre><code id="command">
-sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Dutch.sh?token=GHSAT0AAAAAADA62DD5YG2IQOM7H4PRL4WWZ7WW3DQ)"
+sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Dutch.sh)"
 </code></pre>
 These commands will automatically download and run the FOT Tool installation script for Fedora systems.
 No need to clone or download anything manually — just copy, paste, and you're good to go!<br><br>

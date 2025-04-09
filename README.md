@@ -49,6 +49,9 @@ Download the script from the official GitHub page (or get it directly from H. Da
 <br>
 Make it executable:<br>
 <br>
+These commands will automatically download and run the FOT Tool installation script for Fedora systems.
+No need to clone or download anything manually — just copy, paste, and you're good to go!<br><br>
+<br>
 🇬🇧 English Version:
 <pre><code id="command">
 sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Englisch.sh)"
@@ -57,8 +60,7 @@ sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora
 <pre><code id="command">
 sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Dutch.sh)"
 </code></pre>
-These commands will automatically download and run the FOT Tool installation script for Fedora systems.
-No need to clone or download anything manually — just copy, paste, and you're good to go!<br><br>
+
 <br>
 ✔️ Works out-of-the-box on Fedora Desktop<br>
 

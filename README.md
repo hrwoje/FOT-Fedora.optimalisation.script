@@ -50,7 +50,7 @@ Make it executable:<br>
 <br>
 🇬🇧 English Version:
 <pre><code id="command">
-sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Englisch.sh?token=GHSAT0AAAAAADA62DD4ZOQNXFLX4KO4TTOAZ7WW3SA)"
+sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Englisch.sh)"
 </code></pre>
 🇳🇱 Dutch Version:
 <pre><code id="command">

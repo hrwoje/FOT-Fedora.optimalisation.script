@@ -47,3 +47,18 @@ Open-source and customizable to fit your workflow<br>
 Download the script from the official GitHub page (or get it directly from H. Dabo).<br>
 <br>
 Make it executable:<br>
+<br>
+🇬🇧 English Version:
+<pre><code id="command">
+sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Englisch.sh?token=GHSAT0AAAAAADA62DD4ZOQNXFLX4KO4TTOAZ7WW3SA)"
+</code></pre>
+🇳🇱 Dutch Version:
+<pre><code id="command">
+sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Dutch.sh?token=GHSAT0AAAAAADA62DD5YG2IQOM7H4PRL4WWZ7WW3DQ)"
+</code></pre>
+These commands will automatically download and run the FLM Tool installation script for Fedora systems.
+No need to clone or download anything manually — just copy, paste, and you're good to go!<br><br>
+<br>
+✔️ Works out-of-the-box on Fedora Desktop<br>
+✔️ Includes SELinux fixes, health checks, and Multipress (WordPress Multisite) management<br>
+✔️ Perfect for setting up a local LEMP development server in seconds<br>

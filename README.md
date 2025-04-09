@@ -56,9 +56,9 @@ sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora
 <pre><code id="command">
 sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/FOT-Fedora.optimalisatie.tool.Dutch.sh?token=GHSAT0AAAAAADA62DD5YG2IQOM7H4PRL4WWZ7WW3DQ)"
 </code></pre>
-These commands will automatically download and run the FLM Tool installation script for Fedora systems.
+These commands will automatically download and run the FOT Tool installation script for Fedora systems.
 No need to clone or download anything manually — just copy, paste, and you're good to go!<br><br>
 <br>
 ✔️ Works out-of-the-box on Fedora Desktop<br>
-✔️ Includes SELinux fixes, health checks, and Multipress (WordPress Multisite) management<br>
-✔️ Perfect for setting up a local LEMP development server in seconds<br>
+
+

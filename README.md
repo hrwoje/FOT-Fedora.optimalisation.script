@@ -4,6 +4,7 @@ Developed by H. Dabo<br>
 <br>
 FOT (Fedora Optimization Tool) is a powerful, modular script-based utility designed to fine-tune your Fedora system for maximum performance, smoother user experience, and smarter system behavior. Whether you're a casual user or a power user, FOT makes optimization easy and efficient — all from a single tool.<br>
 <br>
+![Image](https://github.com/user-attachments/assets/c76137d5-43f5-4013-aaec-24e690b2d034)
 ✅ What FOT does:<br>
 One-click full system optimization
 

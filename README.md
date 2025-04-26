@@ -9,7 +9,7 @@
 FOT (Fedora Optimization Tool) is a comprehensive system optimization script designed specifically for Fedora Linux. It provides a collection of optimizations to enhance system performance, security, and user experience.
 
 <pre><code id="command">
-sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/optimize.sh"
+sudo bash -c "bash <(curl -s https://raw.githubusercontent.com/hrwoje/FOT-Fedora.optimalisation.script/refs/heads/main/optimize.sh)"
 </code></pre>
 
 ## ✨ Features
